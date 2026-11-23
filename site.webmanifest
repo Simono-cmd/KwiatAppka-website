@@ -1,0 +1,22 @@
+{
+  "name": "KwiatAppka",
+  "short_name": "KwiatAppka",
+  "description": "Aplikacja do opieki nad roślinami domowymi.",
+  "lang": "pl",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#F7F5EE",
+  "theme_color": "#57A15C",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    }
+  ]
+}
